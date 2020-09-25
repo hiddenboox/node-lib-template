@@ -1,1 +1,1 @@
-# Simple git-hub tempalte for NodeJS library
+# Simple project template for NodeJS library
